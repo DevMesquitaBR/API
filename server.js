@@ -17,11 +17,6 @@ DELETE = DELETAR
     -EDITAR UM USUARIO
     -DELETAR UM USUARIOS
 
-
-    mateusvfmesquita
-
-    GHxLMulhaC9y2NqD
-
     1) Tipo de Rota / Método HTTP
     2) Endereço
 */
